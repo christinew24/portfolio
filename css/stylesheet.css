@@ -1,0 +1,44 @@
+/* css document */
+/* HTML grouped at the top of the CSS file */
+
+body {
+    background: #fbe7f6;
+    
+}
+h1 {
+    color: #fbe7f6;
+    padding-right: 120px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2 {
+    color: #970272;
+    font-family:"Goudy Old Style", sans-serif;
+}
+
+h3 {
+    color: #970272;
+    font-family:"Goudy Old Style", sans-serif;
+}
+h4 {
+    color: #970272;
+    font-family:"times new roman", sans-serif;
+   
+}
+
+h5 {
+    color: #fbe7f6;
+    text-align: left;
+    padding-left: 30px;
+    font-family:"Goudy Old Style", sans-serif;
+}
+p {
+    color: #970272;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family:"times new roman", sans-serif;
+ }
+
+
+
+
